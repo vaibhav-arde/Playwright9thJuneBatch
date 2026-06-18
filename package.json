@@ -1,0 +1,15 @@
+{
+  "name": "playwright9thjunbatch",
+  "version": "1.0.0",
+  "description": "Playwright Cohort",
+  "license": "ISC",
+  "author": "Vaibhav Arde",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4"
+  }
+}
