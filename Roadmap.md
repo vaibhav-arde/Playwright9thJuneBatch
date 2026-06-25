@@ -441,7 +441,7 @@ share_updated: 2026-06-09T21:56:59+05:30
 
 ---
 
-## Day 17 – AI for Test Automation 
+## Day 17 – AI for Test Automation
 
 ### AI Topics
 
@@ -452,7 +452,6 @@ share_updated: 2026-06-09T21:56:59+05:30
 - Test Data Generation
 - Playwright MCP / Skills Concepts
 - Self-Healing Concepts
-
 
 ---
 

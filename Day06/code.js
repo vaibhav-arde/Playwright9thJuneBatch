@@ -1,1 +1,2 @@
-print("Sample code from Main")
+console.log("Hello")
+console.log("Sample code from Main")
